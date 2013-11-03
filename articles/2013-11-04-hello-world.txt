@@ -4,3 +4,4 @@ date: 2013/11/04
 
 Halo Dunia. Ini adalah shitty hello world post sebagai post pertama bahwa aplikasi bekerja dengan lancar jaya. Bismillah, semoga lancar. Pertamax diamankan.
 
+  
